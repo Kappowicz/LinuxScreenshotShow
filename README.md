@@ -1,4 +1,5 @@
 # LinuxScreenshotShow
-Simple script to do screenshot selected area, show it in default image viewer and also copy it to SCREENSHOT_PATH
+This simple script allows you to capture a screenshot of a selected area, display it in the default image viewer, and save it to a designated directory. 
 
-All you need to do is change your default screenshot path in this script and it will work fine
+To use this script, just modify the `SCREENSHOT_PATH` in the script to your preferred location. You can also add this script to your keyboard shortcuts for quick access. I've set it to Win+Shift+S, similar to the shortcut in Windows.
+
