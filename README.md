@@ -3,3 +3,5 @@ This simple script allows you to capture a screenshot of a selected area, displa
 
 To use this script, just modify the `SCREENSHOT_PATH` in the script to your preferred location. You can also add this script to your keyboard shortcuts for quick access. I've set it to Win+Shift+S, similar to the shortcut in Windows.
 
+Known Issues:
+Don't close the default image viewer before you paste the image, or it will just paste text of disk localization.
